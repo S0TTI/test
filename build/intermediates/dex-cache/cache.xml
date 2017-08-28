@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/sotti-h/LocalDisk/project/programing/android/app/studio/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14a9dfb70b119544002718c3ae03a870b949c440">
+        <dex dex="/media/sotti-h/LocalDisk/project/programing/android/app/studio/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5fe5d270851ad845917c16e1376ded6e7cc655de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sotti-h/LocalDisk/project/programing/android/app/studio/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/sotti-h/LocalDisk/project/programing/android/app/studio/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7b2a32ebe5b3276bf56d32907d352c1ba167fea5/classes.dex" />
+    </item>
+
+</items>
